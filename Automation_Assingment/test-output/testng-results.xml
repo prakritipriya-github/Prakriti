@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="138475" started-at="2020-01-16T11:11:26Z" finished-at="2020-01-16T11:13:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="138475" started-at="2020-01-16T11:11:26Z" finished-at="2020-01-16T11:13:44Z">
+      <class name="assingment2.TripAdvisiorTest">
+        <test-method status="PASS" signature="configBeforeSuite()[pri:0, instance:assingment2.TripAdvisiorTest@3e6fa38a]" name="configBeforeSuite" is-config="true" duration-ms="41" started-at="2020-01-16T16:41:26Z" finished-at="2020-01-16T16:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeSuite -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:assingment2.TripAdvisiorTest@3e6fa38a]" name="configBC" is-config="true" duration-ms="6784" started-at="2020-01-16T16:41:26Z" finished-at="2020-01-16T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="ratingsAndReviewTest()[pri:0, instance:assingment2.TripAdvisiorTest@3e6fa38a]" name="ratingsAndReviewTest" duration-ms="130203" started-at="2020-01-16T16:41:32Z" finished-at="2020-01-16T16:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ratingsAndReviewTest -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:assingment2.TripAdvisiorTest@3e6fa38a]" name="configAC" is-config="true" duration-ms="1399" started-at="2020-01-16T16:43:43Z" finished-at="2020-01-16T16:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAfterSuite()[pri:0, instance:assingment2.TripAdvisiorTest@3e6fa38a]" name="configAfterSuite" is-config="true" duration-ms="0" started-at="2020-01-16T16:43:45Z" finished-at="2020-01-16T16:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterSuite -->
+      </class> <!-- assingment2.TripAdvisiorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
